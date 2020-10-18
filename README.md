@@ -1,5 +1,5 @@
 # exar-i2c-programming
-Bunch of old scripts to help loading firmware for exar chips
+Bunch of old scripts to help loading firmware for exar chips via I2c connected MCU
 
 1. You must generate hex files from EXAR software
 2. Use exar_parser.py to convert (intel) hex files to C byte array
